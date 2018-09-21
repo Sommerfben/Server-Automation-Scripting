@@ -4,10 +4,7 @@ from twython import TwythonStreamer, Twython
 import urllib.request
 
 # Search terms
-TERMS = '#ubcelecboisminecraft'
-
-# GPIO pin number of LED
-LED = 22
+TERMS = '#HASHTAG TO MONITOR'
 
 # Twitter application authentication
 APP_KEY = '*****************'
